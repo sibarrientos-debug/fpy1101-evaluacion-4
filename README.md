@@ -1,4 +1,4 @@
-====== Sistema de Biblioteca======
+======SISTEMA DE BIBLOTECA======
 
 Este programa fue creado en Python para registrar y administrar libros de una biblioteca.
 
